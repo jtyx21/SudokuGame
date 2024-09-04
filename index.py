@@ -18,7 +18,6 @@ def choose_difficulty():
         print("Please select an approriate difficulty")
         choose_difficulty()
 
-
 def countdown():
     global mode
 
